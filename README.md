@@ -6,7 +6,7 @@ Data Lemur is a platform dedicated to data analysis and insights. We strive to p
 We welcome contributions to this repository. If you have insights, improvements, or additional resources related to Histogram Tweets, please feel free to submit a pull request.
 
 ## Contact
-For any inquiries or collaboration opportunities, please contact us at [contact@datalemur.com](mailto:contact@datalemur.com).
+For any inquiries or collaboration or opportunities, please contact me at [durgesh@letsbeanalyst.com](mailto:durgesh@letsbeanalyst.com).
 
 Thank you for visiting Data Lemur's Histogram Tweets repository!
 ## Overview
