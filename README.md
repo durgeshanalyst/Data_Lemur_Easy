@@ -10,7 +10,7 @@ For any inquiries or collaboration or opportunities, please contact me at [durge
 
 Thank you for visiting Data Lemur's Histogram Tweets repository!
 ## Overview
-This repository contains resources related to the Data Lemur Question on Histogram Tweets. Explore the following links for detailed explanations and solutions:
+This repository contains resources related to the Data Lemur Question. Explore the following links for detailed explanations and solutions:
 
 ![Data Lemur Logo](https://datalemur.com/_next/image?url=%2Flogo.png&w=256&q=75)
 
