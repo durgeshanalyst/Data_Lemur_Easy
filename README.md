@@ -21,4 +21,11 @@ This repository contains resources related to the Data Lemur Question. Explore t
 - **Video**: [Watch Video Solution](https://youtu.be/OfUKdW-ZsKo)
   - Access a video solution that walks you through solving the Data Lemur Question on Histogram Tweets. Follow along to gain a better understanding of the concept.
 
+## Y-on-Y Growth Rate [Wayfair SQL Interview Question]
+- **Post**: [Y-on-Y Growth Rate Wayfair SQL Interview Question Explanation](https://durgeshanalyst.medium.com/y-on-y-growth-rate-wayfair-sql-interview-question-3f429a6d4ea)
+  - Dive into a comprehensive explanation of Y-on-Y Growth Rate [Wayfair SQL Interview Question] interview question. Learn how to analyze and work with YOY rate effectively.
+  
+- **Video**: [Watch Video Solution](https://youtu.be/OfUKdW-ZsKo)
+  - Access a video solution that walks you through solving the Data Lemur Question on Histogram Tweets. Follow along to gain a better understanding of the concept. COming SOon
+
 
